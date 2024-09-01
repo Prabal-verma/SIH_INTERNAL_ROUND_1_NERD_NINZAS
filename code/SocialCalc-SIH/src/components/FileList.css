@@ -1,0 +1,55 @@
+/* components/FileList.css */
+.file-list-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #ffffff; /* White background */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #202124; /* Dark text for better readability */
+  text-align: left;
+}
+
+.file-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+}
+
+.file-card {
+  background-color: #f1f3f4; /* Light gray background to differentiate from main container */
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.file-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.file-icon {
+  font-size: 36px;
+  color: #1a73e8; /* Google blue for accent */
+  margin-bottom: 10px;
+}
+
+.file-name {
+  font-size: 14px;
+  font-weight: 500;
+  color: #5f6368; /* Subtle gray for file names */
+  word-break: break-word;
+  max-width: 200px;
+}
