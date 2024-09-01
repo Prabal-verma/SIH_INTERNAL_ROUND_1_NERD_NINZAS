@@ -11,8 +11,13 @@ SocialCalc is a modern, web-based spreadsheet application designed for real-time
 ![image](./screenshots/home-page.png "Title")
 ### LOGIN PAGE
 ![image](./screenshots/login-page.png "Title")
-### PRIVACY PAGE
-![image](./screenshots/privacy-page.png "Title")
+### NEWSHEET PAGE
+![image](./screenshots/sheet-page.png "Title")
+### MYSHEET PAGE
+![image](./screenshots/mysheet-page.png "Title")
+### CONTACT US PAGE
+![image](./screenshots/contactus-page.png "Title")
+
 
 ## Features
 
