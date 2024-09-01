@@ -21,6 +21,7 @@ This README provides an overview of the project, including team details, relevan
 
 - **Internal Presentation:** [Internal Presentation](./files/Internal_PPT_Nerd_Ninzas.pdf).
 - **Live Deployment:** [View Deployment](https://socialcalc.vercel.app/).
+- **Video Demonstration:** [Watch Video](https://youtu.be/IgH0i55augI)
 - **Source Code:** [GitHub Repository](https://github.com/Prabal-verma/SIH_INTERNAL_ROUND_1_NERD_NINZAS).
 - **Figma Link** [Figma Link](https://www.figma.com/design/6at4zdVslBTI8mC01dtC5L/Untitled).
 - **Architecture Diagram** [Diagram Link](https://app.eraser.io/workspace/9tp9HmW6gtxPN4jDRS3Q).

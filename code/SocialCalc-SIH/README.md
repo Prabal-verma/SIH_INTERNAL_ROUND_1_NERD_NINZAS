@@ -1,7 +1,3 @@
-Here's a template for your SocialCalc app's README file:
-
----
-
 # SocialCalc
 
 SocialCalc is a modern, web-based spreadsheet application designed for real-time collaboration. Inspired by the classic SocialCalc, this project aims to provide an intuitive and powerful spreadsheet experience with live collaboration capabilities.
